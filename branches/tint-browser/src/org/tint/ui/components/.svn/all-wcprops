@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/335/branches/tint-browser/src/org/tint/ui/components
+END
+CustomWebViewClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/309/branches/tint-browser/src/org/tint/ui/components/CustomWebViewClient.java
+END
+CustomWebView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/335/branches/tint-browser/src/org/tint/ui/components/CustomWebView.java
+END
+CustomWebChromeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/311/branches/tint-browser/src/org/tint/ui/components/CustomWebChromeClient.java
+END

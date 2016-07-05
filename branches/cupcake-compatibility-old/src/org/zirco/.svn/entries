@@ -1,0 +1,43 @@
+10
+
+dir
+468
+http://zirco-browser.googlecode.com/svn/branches/cupcake-compatibility-old/src/org/zirco
+http://zirco-browser.googlecode.com/svn
+
+
+
+2010-06-18T19:39:31.188394Z
+93
+J.Devauchelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e747efee-954d-ea6f-70a2-271fa72c5eea
+
+model
+dir
+
+utils
+dir
+
+events
+dir
+
+controllers
+dir
+
+ui
+dir
+

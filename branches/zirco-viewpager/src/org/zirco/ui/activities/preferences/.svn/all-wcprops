@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences
+END
+WeaveServerPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/WeaveServerPreferenceActivity.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/PreferencesActivity.java
+END
+BaseSpinnerCustomPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/BaseSpinnerCustomPreferenceActivity.java
+END
+HomepagePreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/HomepagePreferenceActivity.java
+END
+SearchUrlPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/SearchUrlPreferenceActivity.java
+END
+WeavePreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/WeavePreferencesActivity.java
+END
+UserAgentPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/preferences/UserAgentPreferenceActivity.java
+END

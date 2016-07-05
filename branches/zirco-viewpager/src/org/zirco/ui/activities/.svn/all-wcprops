@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities
+END
+AdBlockerWhiteListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/AdBlockerWhiteListActivity.java
+END
+IToolbarsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/IToolbarsContainer.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/MainActivity.java
+END
+BookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/BookmarksListActivity.java
+END
+DownloadsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/DownloadsListActivity.java
+END
+ChangelogActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/ChangelogActivity.java
+END
+BookmarksHistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/BookmarksHistoryActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/AboutActivity.java
+END
+EditBookmarkActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/EditBookmarkActivity.java
+END
+WeaveBookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/WeaveBookmarksListActivity.java
+END
+HistoryListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/HistoryListActivity.java
+END
+MobileViewListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/427/branches/zirco-viewpager/src/org/zirco/ui/activities/MobileViewListActivity.java
+END

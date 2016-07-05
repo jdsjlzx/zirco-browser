@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/webview.xml
+END
+mobile_view_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/mobile_view_list_activity.xml
+END
+adblockerwhitelistrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/adblockerwhitelistrow.xml
+END
+base_spinner_custom_preference_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/base_spinner_custom_preference_activity.xml
+END
+preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/preferences_activity.xml
+END
+weave_bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/weave_bookmark_row.xml
+END
+mobile_view_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/mobile_view_list_row.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/main.xml
+END
+edit_bookmark_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/edit_bookmark_activity.xml
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/about_activity.xml
+END
+weave_bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/weave_bookmarks_list_activity.xml
+END
+bookmarkshistoryactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/bookmarkshistoryactivity.xml
+END
+gd_quick_action_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/gd_quick_action_grid.xml
+END
+javascriptpromptdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/javascriptpromptdialog.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/history_row.xml
+END
+url_autocomplete_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/url_autocomplete_line.xml
+END
+bookmarkrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/bookmarkrow.xml
+END
+download_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/download_row.xml
+END
+adblockerwhitelistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/adblockerwhitelistactivity.xml
+END
+bookmarkslistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/bookmarkslistactivity.xml
+END
+downloadslistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/downloadslistactivity.xml
+END
+changelogactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/changelogactivity.xml
+END
+weave_preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/weave_preferences_activity.xml
+END
+gd_quick_action_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/426/branches/zirco-viewpager-old/res/layout/gd_quick_action_grid_item.xml
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client
+END
+WeaveCryptoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveCryptoUtil.java
+END
+UserWeave.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/UserWeave.java
+END
+QueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/QueryParams.java
+END
+Base32.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/Base32.java
+END
+WeaveHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveHeader.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/Base64.java
+END
+Base64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/Base64Encoder.java
+END
+HexEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/HexEncoder.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/Hex.java
+END
+WeaveTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveTransport.java
+END
+WeaveResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveResponse.java
+END
+WeaveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveException.java
+END
+WeaveSSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveSSLSocketFactory.java
+END
+Dbg.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/Dbg.java
+END
+WeaveFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveFactory.java
+END
+WeaveAccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveAccountInfo.java
+END
+WeaveBasicObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveBasicObject.java
+END
+BulkKeyCouplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/BulkKeyCouplet.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/QueryResult.java
+END
+WeaveConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveConstants.java
+END
+WeaveUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/423/branches/zirco-theme/src/org/emergent/android/weave/client/WeaveUtil.java
+END

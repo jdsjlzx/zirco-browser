@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/adapters
+END
+WebViewsImageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/237/branches/zirco-test/src/org/zirco2/adapters/WebViewsImageAdapter.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/237/branches/zirco-test/src/org/zirco2/adapters/HistoryItem.java
+END
+HistoryExpandableListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/239/branches/zirco-test/src/org/zirco2/adapters/HistoryExpandableListAdapter.java
+END
+BookmarksHistoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/adapters/BookmarksHistoryAdapter.java
+END

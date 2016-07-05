@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/242/branches/zirco-test/res/layout
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/223/branches/zirco-test/res/layout/main_activity.xml
+END
+tabs_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/242/branches/zirco-test/res/layout/tabs_activity.xml
+END
+bookmarks_history_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/230/branches/zirco-test/res/layout/bookmarks_history_activity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/229/branches/zirco-test/res/layout/webview.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/237/branches/zirco-test/res/layout/history_row.xml
+END
+bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/236/branches/zirco-test/res/layout/bookmark_row.xml
+END
+bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/230/branches/zirco-test/res/layout/bookmarks_list_activity.xml
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+468
+http://zirco-browser.googlecode.com/svn/tags/0.4.2/src/org/zirco
+http://zirco-browser.googlecode.com/svn
+
+
+
+2011-12-09T15:55:31.603957Z
+437
+j.Devauchelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e747efee-954d-ea6f-70a2-271fa72c5eea
+
+controllers
+dir
+
+sync
+dir
+
+providers
+dir
+
+ui
+dir
+
+model
+dir
+
+utils
+dir
+
+events
+dir
+

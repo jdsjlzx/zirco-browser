@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/304/branches/tint-browser-old2/src/org/tint/model
+END
+BookmarkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/304/branches/tint-browser-old2/src/org/tint/model/BookmarkItem.java
+END
+DownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/304/branches/tint-browser-old2/src/org/tint/model/DownloadItem.java
+END
+WebViewContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/304/branches/tint-browser-old2/src/org/tint/model/WebViewContainer.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/304/branches/tint-browser-old2/src/org/tint/model/HistoryItem.java
+END

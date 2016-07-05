@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/DateUtils.java
+END
+ApplicationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/ApplicationUtils.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/IOUtils.java
+END
+BookmarksUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/BookmarksUtils.java
+END
+AnimationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/AnimationManager.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/187/branches/cupcake-compatibility-old/src/org/zirco/utils/Constants.java
+END

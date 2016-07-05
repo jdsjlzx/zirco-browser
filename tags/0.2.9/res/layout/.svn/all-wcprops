@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/112/tags/0.2.9/res/layout
+END
+adblockerwhitelistrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112/tags/0.2.9/res/layout/adblockerwhitelistrow.xml
+END
+bookmarkrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/tags/0.2.9/res/layout/bookmarkrow.xml
+END
+preferencesactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112/tags/0.2.9/res/layout/preferencesactivity.xml
+END
+downloadrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/tags/0.2.9/res/layout/downloadrow.xml
+END
+adblockerwhitelistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112/tags/0.2.9/res/layout/adblockerwhitelistactivity.xml
+END
+bookmarkslistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112/tags/0.2.9/res/layout/bookmarkslistactivity.xml
+END
+downloadslistactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112/tags/0.2.9/res/layout/downloadslistactivity.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/112/tags/0.2.9/res/layout/main.xml
+END
+aboutactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/112/tags/0.2.9/res/layout/aboutactivity.xml
+END
+javascriptpromptdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112/tags/0.2.9/res/layout/javascriptpromptdialog.xml
+END
+editbookmarkactivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112/tags/0.2.9/res/layout/editbookmarkactivity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/tags/0.2.9/res/layout/webview.xml
+END
+historyrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/112/tags/0.2.9/res/layout/historyrow.xml
+END

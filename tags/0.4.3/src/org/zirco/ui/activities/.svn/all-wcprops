@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities
+END
+DownloadsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/DownloadsListActivity.java
+END
+ChangelogActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/ChangelogActivity.java
+END
+BookmarksHistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/BookmarksHistoryActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/AboutActivity.java
+END
+EditBookmarkActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/EditBookmarkActivity.java
+END
+WeaveBookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/WeaveBookmarksListActivity.java
+END
+HistoryListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/HistoryListActivity.java
+END
+MobileViewListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/MobileViewListActivity.java
+END
+AdBlockerWhiteListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/AdBlockerWhiteListActivity.java
+END
+IToolbarsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/IToolbarsContainer.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/MainActivity.java
+END
+BookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/444/tags/0.4.3/src/org/zirco/ui/activities/BookmarksListActivity.java
+END

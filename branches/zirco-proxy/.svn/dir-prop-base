@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 9
+gen
+
+bin
+
+K 13
+svn:mergeinfo
+V 46
+/branches/zirco-actions:342-364
+/trunk:413-430
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/97/tags/0.2.8
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/97/tags/0.2.8/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/97/tags/0.2.8/AndroidManifest.xml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/tags/0.2.8/CHANGELOG
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/97/tags/0.2.8/.checkstyle
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/97/tags/0.2.8/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/97/tags/0.2.8/.classpath
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/tags/0.2.8/LICENSE
+END

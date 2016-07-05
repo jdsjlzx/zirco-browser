@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/404/tags/0.4.0/src/org/zirco/events
+END
+EventConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/404/tags/0.4.0/src/org/zirco/events/EventConstants.java
+END
+EventController.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/404/tags/0.4.0/src/org/zirco/events/EventController.java
+END
+IDownloadEventsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/404/tags/0.4.0/src/org/zirco/events/IDownloadEventsListener.java
+END

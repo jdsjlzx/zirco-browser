@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/273/branches/tint-browser-old/src/org/tint/runnables
+END
+XmlHistoryBookmarksImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/273/branches/tint-browser-old/src/org/tint/runnables/XmlHistoryBookmarksImporter.java
+END
+HistoryUpdaterRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/273/branches/tint-browser-old/src/org/tint/runnables/HistoryUpdaterRunnable.java
+END
+FaviconUpdaterRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/273/branches/tint-browser-old/src/org/tint/runnables/FaviconUpdaterRunnable.java
+END
+XmlHistoryBookmarksExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/273/branches/tint-browser-old/src/org/tint/runnables/XmlHistoryBookmarksExporter.java
+END

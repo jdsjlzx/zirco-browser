@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters
+END
+WeaveBookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters/WeaveBookmarksCursorAdapter.java
+END
+HistoryExpandableListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters/HistoryExpandableListAdapter.java
+END
+DownloadListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters/DownloadListAdapter.java
+END
+BookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters/BookmarksCursorAdapter.java
+END
+UrlSuggestionCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/adapters/UrlSuggestionCursorAdapter.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/branches/zirco-test/res/drawable-mdpi
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/209/branches/zirco-test/res/drawable-mdpi/icon.png
+END
+ic_btn_close_tab.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/223/branches/zirco-test/res/drawable-mdpi/ic_btn_close_tab.png
+END
+ic_tab_history_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/237/branches/zirco-test/res/drawable-mdpi/ic_tab_history_selected.png
+END
+ic_tab_history_unselected.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/237/branches/zirco-test/res/drawable-mdpi/ic_tab_history_unselected.png
+END
+ic_btn_back.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/241/branches/zirco-test/res/drawable-mdpi/ic_btn_back.png
+END
+ic_tab_bookmarks_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/231/branches/zirco-test/res/drawable-mdpi/ic_tab_bookmarks_selected.png
+END
+ic_btn_forward.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/241/branches/zirco-test/res/drawable-mdpi/ic_btn_forward.png
+END
+ic_btn_go.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/215/branches/zirco-test/res/drawable-mdpi/ic_btn_go.png
+END
+ic_tab_bookmarks_unselected.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/231/branches/zirco-test/res/drawable-mdpi/ic_tab_bookmarks_unselected.png
+END
+ic_btn_open_tab.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/223/branches/zirco-test/res/drawable-mdpi/ic_btn_open_tab.png
+END
+ic_btn_bookmarks.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/241/branches/zirco-test/res/drawable-mdpi/ic_btn_bookmarks.png
+END

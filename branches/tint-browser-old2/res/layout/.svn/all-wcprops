@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout
+END
+url_autocomplete_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/url_autocomplete_line.xml
+END
+spinner_dialog_preference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/spinner_dialog_preference.xml
+END
+bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/bookmark_row.xml
+END
+preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/preferences_activity.xml
+END
+bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/bookmarks_list_activity.xml
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/main_activity.xml
+END
+tabs_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/tabs_activity.xml
+END
+bookmarks_history_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/bookmarks_history_activity.xml
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/about_activity.xml
+END
+javascript_prompt_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/javascript_prompt_dialog.xml
+END
+edit_bookmark_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/edit_bookmark_activity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/webview.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/history_row.xml
+END
+website_settings_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/304/branches/tint-browser-old2/res/layout/website_settings_row.xml
+END

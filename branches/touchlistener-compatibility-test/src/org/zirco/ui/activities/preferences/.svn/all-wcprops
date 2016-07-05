@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences
+END
+HomepagePreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences/HomepagePreferenceActivity.java
+END
+SearchUrlPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences/SearchUrlPreferenceActivity.java
+END
+UserAgentPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences/UserAgentPreferenceActivity.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences/PreferencesActivity.java
+END
+BaseSpinnerCustomPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/191/branches/touchlistener-compatibility-test/src/org/zirco/ui/activities/preferences/BaseSpinnerCustomPreferenceActivity.java
+END

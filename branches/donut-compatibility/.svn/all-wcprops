@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/190/branches/donut-compatibility
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/189/branches/donut-compatibility/.project
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/189/branches/donut-compatibility/TODO
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/190/branches/donut-compatibility/AndroidManifest.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/189/branches/donut-compatibility/.checkstyle
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/190/branches/donut-compatibility/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/189/branches/donut-compatibility/.classpath
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/189/branches/donut-compatibility/LICENSE
+END

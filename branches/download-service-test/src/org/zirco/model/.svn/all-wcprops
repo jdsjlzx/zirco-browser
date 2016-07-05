@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/HistoryItem.java
+END
+UrlSuggestionItemComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/UrlSuggestionItemComparator.java
+END
+DownloadListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/DownloadListAdapter.java
+END
+DownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/DownloadItem.java
+END
+DbAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/DbAdapter.java
+END
+BookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/BookmarksCursorAdapter.java
+END
+UrlSuggestionCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/UrlSuggestionCursorAdapter.java
+END
+UrlSuggestionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/model/UrlSuggestionItem.java
+END

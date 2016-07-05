@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/190/branches/donut-compatibility/src/org/zirco/ui/activities
+END
+BookmarksHistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/BookmarksHistoryActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/AboutActivity.java
+END
+EditBookmarkActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/EditBookmarkActivity.java
+END
+HistoryListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/HistoryListActivity.java
+END
+ZircoMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/190/branches/donut-compatibility/src/org/zirco/ui/activities/ZircoMain.java
+END
+AdBlockerWhiteListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/AdBlockerWhiteListActivity.java
+END
+IToolbarsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/IToolbarsContainer.java
+END
+BookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/BookmarksListActivity.java
+END
+DownloadsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/DownloadsListActivity.java
+END
+ChangelogActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/ui/activities/ChangelogActivity.java
+END

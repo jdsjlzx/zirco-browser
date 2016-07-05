@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items
+END
+UrlSuggestionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items/UrlSuggestionItem.java
+END
+WeaveBookmarkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items/WeaveBookmarkItem.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items/HistoryItem.java
+END
+BookmarkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items/BookmarkItem.java
+END
+DownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/464/tags/0.4.4/src/org/zirco/model/items/DownloadItem.java
+END

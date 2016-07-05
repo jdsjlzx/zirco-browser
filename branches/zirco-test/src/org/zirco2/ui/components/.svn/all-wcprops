@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/components
+END
+CustomWebView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/236/branches/zirco-test/src/org/zirco2/ui/components/CustomWebView.java
+END
+CustomWebChromeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/components/CustomWebChromeClient.java
+END
+CustomWebViewClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/components/CustomWebViewClient.java
+END

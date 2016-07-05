@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/462/trunk/res/layout
+END
+adblocker_whitelist_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/397/trunk/res/layout/adblocker_whitelist_row.xml
+END
+base_spinner_custom_preference_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/152/trunk/res/layout/base_spinner_custom_preference_activity.xml
+END
+preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/437/trunk/res/layout/preferences_activity.xml
+END
+weave_bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/385/trunk/res/layout/weave_bookmark_row.xml
+END
+mobile_view_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/196/trunk/res/layout/mobile_view_list_row.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/424/trunk/res/layout/main.xml
+END
+bookmarks_history_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/397/trunk/res/layout/bookmarks_history_activity.xml
+END
+edit_bookmark_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/389/trunk/res/layout/edit_bookmark_activity.xml
+END
+javascript_prompt_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/397/trunk/res/layout/javascript_prompt_dialog.xml
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/436/trunk/res/layout/about_activity.xml
+END
+weave_bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/389/trunk/res/layout/weave_bookmarks_list_activity.xml
+END
+video_loading_progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/440/trunk/res/layout/video_loading_progress.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/419/trunk/res/layout/history_row.xml
+END
+gd_quick_action_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/365/trunk/res/layout/gd_quick_action_grid.xml
+END
+url_autocomplete_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/370/trunk/res/layout/url_autocomplete_line.xml
+END
+bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/397/trunk/res/layout/bookmark_row.xml
+END
+http_authentication_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/435/trunk/res/layout/http_authentication_dialog.xml
+END
+adblocker_whitelist_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/397/trunk/res/layout/adblocker_whitelist_activity.xml
+END
+download_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/462/trunk/res/layout/download_row.xml
+END
+bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/397/trunk/res/layout/bookmarks_list_activity.xml
+END
+downloads_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/397/trunk/res/layout/downloads_list_activity.xml
+END
+changelog_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/397/trunk/res/layout/changelog_activity.xml
+END
+weave_preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/376/trunk/res/layout/weave_preferences_activity.xml
+END
+gd_quick_action_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/365/trunk/res/layout/gd_quick_action_grid_item.xml
+END
+mobile_view_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/196/trunk/res/layout/mobile_view_list_activity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/397/trunk/res/layout/webview.xml
+END

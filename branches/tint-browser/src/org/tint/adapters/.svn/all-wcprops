@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/adapters
+END
+BookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/adapters/BookmarksCursorAdapter.java
+END
+UrlSuggestionCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/adapters/UrlSuggestionCursorAdapter.java
+END
+WebViewsImageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/adapters/WebViewsImageAdapter.java
+END
+HistoryExpandableListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/adapters/HistoryExpandableListAdapter.java
+END

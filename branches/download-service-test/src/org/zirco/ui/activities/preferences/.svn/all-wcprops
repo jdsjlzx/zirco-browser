@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences/PreferencesActivity.java
+END
+BaseSpinnerCustomPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences/BaseSpinnerCustomPreferenceActivity.java
+END
+HomepagePreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences/HomepagePreferenceActivity.java
+END
+SearchUrlPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences/SearchUrlPreferenceActivity.java
+END
+UserAgentPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/activities/preferences/UserAgentPreferenceActivity.java
+END

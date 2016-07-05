@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/304/branches/tint-browser-old2/res/anim
+END
+browser_view_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/304/branches/tint-browser-old2/res/anim/browser_view_exit.xml
+END
+tab_view_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/304/branches/tint-browser-old2/res/anim/tab_view_exit.xml
+END
+browser_view_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/304/branches/tint-browser-old2/res/anim/browser_view_enter.xml
+END
+tab_view_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/304/branches/tint-browser-old2/res/anim/tab_view_enter.xml
+END

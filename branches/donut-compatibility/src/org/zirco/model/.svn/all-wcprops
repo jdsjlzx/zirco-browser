@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model
+END
+BookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/BookmarksCursorAdapter.java
+END
+UrlSuggestionCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/UrlSuggestionCursorAdapter.java
+END
+UrlSuggestionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/UrlSuggestionItem.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/HistoryItem.java
+END
+UrlSuggestionItemComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/UrlSuggestionItemComparator.java
+END
+DownloadListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/DownloadListAdapter.java
+END
+DownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/DownloadItem.java
+END
+DbAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/branches/donut-compatibility/src/org/zirco/model/DbAdapter.java
+END

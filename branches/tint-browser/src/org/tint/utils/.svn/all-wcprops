@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/325/branches/tint-browser/src/org/tint/utils
+END
+ApplicationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/309/branches/tint-browser/src/org/tint/utils/ApplicationUtils.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/utils/IOUtils.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/307/branches/tint-browser/src/org/tint/utils/Constants.java
+END
+AnimationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/325/branches/tint-browser/src/org/tint/utils/AnimationUtils.java
+END
+UrlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/utils/UrlUtils.java
+END

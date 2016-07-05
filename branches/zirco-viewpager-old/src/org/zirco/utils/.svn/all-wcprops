@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/DateUtils.java
+END
+UrlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/UrlUtils.java
+END
+ApplicationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/ApplicationUtils.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/IOUtils.java
+END
+AnimationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/AnimationManager.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/utils/Constants.java
+END

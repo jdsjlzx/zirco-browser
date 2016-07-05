@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/Constants.java
+END
+ProxyChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/ProxyChangeReceiver.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/DateUtils.java
+END
+ProxySettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/ProxySettings.java
+END
+UrlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/UrlUtils.java
+END
+ApplicationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/ApplicationUtils.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/IOUtils.java
+END
+AnimationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/438/tags/0.4.2/src/org/zirco/utils/AnimationManager.java
+END

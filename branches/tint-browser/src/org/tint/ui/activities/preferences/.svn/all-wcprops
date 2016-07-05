@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/307/branches/tint-browser/src/org/tint/ui/activities/preferences
+END
+UserAgentPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/ui/activities/preferences/UserAgentPreference.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/ui/activities/preferences/PreferencesActivity.java
+END
+SearchUrlPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/306/branches/tint-browser/src/org/tint/ui/activities/preferences/SearchUrlPreference.java
+END
+StartPagePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/307/branches/tint-browser/src/org/tint/ui/activities/preferences/StartPagePreference.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components
+END
+CustomWebViewClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components/CustomWebViewClient.java
+END
+CustomWebView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components/CustomWebView.java
+END
+CustomViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components/CustomViewPager.java
+END
+CustomWebChromeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components/CustomWebChromeClient.java
+END
+CustomPagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/426/branches/zirco-viewpager-old/src/org/zirco/ui/components/CustomPagerAdapter.java
+END

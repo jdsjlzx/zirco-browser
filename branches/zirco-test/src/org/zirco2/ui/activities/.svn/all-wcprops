@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/241/branches/zirco-test/src/org/zirco2/ui/activities
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/activities/MainActivity.java
+END
+BookmarksListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/activities/BookmarksListActivity.java
+END
+TabsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/241/branches/zirco-test/src/org/zirco2/ui/activities/TabsActivity.java
+END
+BookmarksHistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/237/branches/zirco-test/src/org/zirco2/ui/activities/BookmarksHistoryActivity.java
+END
+HistoryListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/240/branches/zirco-test/src/org/zirco2/ui/activities/HistoryListActivity.java
+END

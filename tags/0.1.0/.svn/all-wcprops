@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/7/tags/0.1.0
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/tags/0.1.0/AndroidManifest.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7/tags/0.1.0/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/tags/0.1.0/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/tags/0.1.0/.project
+END

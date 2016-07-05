@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/about_activity.xml
+END
+javascript_prompt_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/javascript_prompt_dialog.xml
+END
+edit_bookmark_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/edit_bookmark_activity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/webview.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/history_row.xml
+END
+url_autocomplete_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/url_autocomplete_line.xml
+END
+bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/bookmark_row.xml
+END
+base_spinner_custom_preference_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/base_spinner_custom_preference_activity.xml
+END
+preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/preferences_activity.xml
+END
+bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/bookmarks_list_activity.xml
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/main_activity.xml
+END
+title_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/title_bar.xml
+END
+tabs_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/tabs_activity.xml
+END
+bookmarks_history_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/273/branches/tint-browser-old/res/layout/bookmarks_history_activity.xml
+END

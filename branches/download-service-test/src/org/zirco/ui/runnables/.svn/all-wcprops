@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/runnables
+END
+BookmarkThumbnailUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/runnables/BookmarkThumbnailUpdater.java
+END
+DownloadRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/runnables/DownloadRunnable.java
+END
+HideToolbarsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/runnables/HideToolbarsRunnable.java
+END
+HistoryUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/178/branches/download-service-test/src/org/zirco/ui/runnables/HistoryUpdater.java
+END

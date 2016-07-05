@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model
+END
+DownloadListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model/DownloadListAdapter.java
+END
+DownloadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model/DownloadItem.java
+END
+DbAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model/DbAdapter.java
+END
+BookmarksCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model/BookmarksCursorAdapter.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/120/tags/0.3.0/src/org/zirco/model/HistoryItem.java
+END

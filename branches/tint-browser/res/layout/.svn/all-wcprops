@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/325/branches/tint-browser/res/layout
+END
+bookmarks_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/306/branches/tint-browser/res/layout/bookmarks_list_activity.xml
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/325/branches/tint-browser/res/layout/main_activity.xml
+END
+tabs_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/306/branches/tint-browser/res/layout/tabs_activity.xml
+END
+bookmarks_history_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/306/branches/tint-browser/res/layout/bookmarks_history_activity.xml
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/306/branches/tint-browser/res/layout/about_activity.xml
+END
+javascript_prompt_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/306/branches/tint-browser/res/layout/javascript_prompt_dialog.xml
+END
+edit_bookmark_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/306/branches/tint-browser/res/layout/edit_bookmark_activity.xml
+END
+webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/306/branches/tint-browser/res/layout/webview.xml
+END
+history_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/306/branches/tint-browser/res/layout/history_row.xml
+END
+website_settings_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/306/branches/tint-browser/res/layout/website_settings_row.xml
+END
+url_autocomplete_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/306/branches/tint-browser/res/layout/url_autocomplete_line.xml
+END
+spinner_dialog_preference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/306/branches/tint-browser/res/layout/spinner_dialog_preference.xml
+END
+bookmark_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/306/branches/tint-browser/res/layout/bookmark_row.xml
+END
+preferences_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/319/branches/tint-browser/res/layout/preferences_activity.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/192/branches/touchlistener-compatibility-test/src/org/zirco/ui/compatibility
+END
+NoFingerZoomTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/192/branches/touchlistener-compatibility-test/src/org/zirco/ui/compatibility/NoFingerZoomTouchListener.java
+END
+FingerZoomTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/192/branches/touchlistener-compatibility-test/src/org/zirco/ui/compatibility/FingerZoomTouchListener.java
+END
+BaseTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/192/branches/touchlistener-compatibility-test/src/org/zirco/ui/compatibility/BaseTouchListener.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/304/branches/tint-browser-old2
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/304/branches/tint-browser-old2/AndroidManifest.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/304/branches/tint-browser-old2/.checkstyle
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/304/branches/tint-browser-old2/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/304/branches/tint-browser-old2/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/304/branches/tint-browser-old2/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/304/branches/tint-browser-old2/.project
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/tags/0.2.8/src/org/zirco/ui/runnables
+END
+HideToolbarsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/97/tags/0.2.8/src/org/zirco/ui/runnables/HideToolbarsRunnable.java
+END
+HistoryUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/97/tags/0.2.8/src/org/zirco/ui/runnables/HistoryUpdater.java
+END
+DownloadRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/97/tags/0.2.8/src/org/zirco/ui/runnables/DownloadRunnable.java
+END

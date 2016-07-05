@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/404/tags/0.4.0/res/anim
+END
+gd_grow_from_bottomright_to_topleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_bottomright_to_topleft.xml
+END
+gd_shrink_from_topleft_to_bottomright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_topleft_to_bottomright.xml
+END
+gd_grow_from_bottomleft_to_topright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_bottomleft_to_topright.xml
+END
+gd_shrink_from_bottomright_to_topleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_bottomright_to_topleft.xml
+END
+gd_shrink_from_bottomleft_to_topright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_bottomleft_to_topright.xml
+END
+gd_shrink_from_topright_to_bottomleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_topright_to_bottomleft.xml
+END
+gd_grow_from_topleft_to_bottomright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_topleft_to_bottomright.xml
+END
+gd_grow_from_topright_to_bottomleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_topright_to_bottomleft.xml
+END
+gd_shrink_from_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_top.xml
+END
+gd_grow_from_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_top.xml
+END
+gd_grow_from_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_grow_from_bottom.xml
+END
+gd_shrink_from_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/404/tags/0.4.0/res/anim/gd_shrink_from_bottom.xml
+END

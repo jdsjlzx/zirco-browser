@@ -1,0 +1,43 @@
+10
+
+dir
+468
+http://zirco-browser.googlecode.com/svn/branches/zirco-test/src/org/zirco2
+http://zirco-browser.googlecode.com/svn
+
+
+
+2011-02-20T15:16:28.662656Z
+241
+J.Devauchelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e747efee-954d-ea6f-70a2-271fa72c5eea
+
+ui
+dir
+
+utils
+dir
+
+adapters
+dir
+
+controllers
+dir
+
+runnables
+dir
+
